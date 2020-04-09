@@ -1,0 +1,6 @@
+Criar repositorio 
+Clonar
+Entrar no repositorio pelo cmd
+npm init
+responder as perguntas
+criar um index html simples na pasta

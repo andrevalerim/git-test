@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Este é o projeto o git e node básico",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrevalerim/git-test.git"
+  },
+  "author": "André Valerim de Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrevalerim/git-test/issues"
+  },
+  "homepage": "https://github.com/andrevalerim/git-test#readme"
+}
